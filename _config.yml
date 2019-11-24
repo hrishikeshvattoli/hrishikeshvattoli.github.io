@@ -126,11 +126,11 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "hrishikeshvattoli"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
     - label: "Linkedin"
       icon: "hrishikeshpa"
-      # url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/hrishikeshpa/"
 
 # Site Footer
 footer:
